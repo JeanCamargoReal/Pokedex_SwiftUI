@@ -12,6 +12,7 @@
 		C540FACF25D081C400FECF98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C540FACE25D081C400FECF98 /* Assets.xcassets */; };
 		C540FAD225D081C400FECF98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C540FAD125D081C400FECF98 /* Preview Assets.xcassets */; };
 		C540FADF25D0828E00FECF98 /* PokemonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C540FADE25D0828E00FECF98 /* PokemonCell.swift */; };
+		C540FAE225D08FFA00FECF98 /* PokedexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C540FAE125D08FFA00FECF98 /* PokedexView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C540FAD125D081C400FECF98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C540FAD325D081C400FECF98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C540FADE25D0828E00FECF98 /* PokemonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonCell.swift; sourceTree = "<group>"; };
+		C540FAE125D08FFA00FECF98 /* PokedexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				C540FADE25D0828E00FECF98 /* PokemonCell.swift */,
+				C540FAE125D08FFA00FECF98 /* PokedexView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				C540FACD25D081C300FECF98 /* ContentView.swift in Sources */,
 				C540FACB25D081C300FECF98 /* PokedexSwiftUIApp.swift in Sources */,
 				C540FADF25D0828E00FECF98 /* PokemonCell.swift in Sources */,
+				C540FAE225D08FFA00FECF98 /* PokedexView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
